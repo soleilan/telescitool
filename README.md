@@ -1,0 +1,2 @@
+# telescitool
+Goonstation telescience calculator
